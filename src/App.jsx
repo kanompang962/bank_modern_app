@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Stats from "./components/Stats";
 import Business from "./components/Business";
-import Billing from "./components/Billing";
+import Billing from "./components/BIlling";
 import CardDeal from "./components/CardDeal";
 import Testimonials from "./components/Testimonials";
 import Clients from "./components/Clients";
