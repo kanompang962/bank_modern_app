@@ -1,15 +1,13 @@
-import {
-  Billing,
-  Business,
-  CTA,
-  CardDeal,
-  Clients,
-  Footer,
-  Hero,
-  Navbar,
-  Stats,
-  Testimonials,
-} from "./components";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Stats from "./components/Stats";
+import Business from "./components/Business";
+import Billing from "./components/Billing";
+import CardDeal from "./components/CardDeal";
+import Testimonials from "./components/Testimonials";
+import Clients from "./components/Clients";
+import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 import styles from "./style";
 
 function App() {
